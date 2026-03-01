@@ -1,6 +1,7 @@
 # CBAM ERP Carbon Management System
 
 CBAM 대응을 위한 ERP 기반 탄소관리 시스템 기획
+
 ERP-integrated carbon management solution designed to help SMEs comply with the upcoming CBAM (Carbon Border Adjustment Mechanism) regulation in 2026.
 
 ---
