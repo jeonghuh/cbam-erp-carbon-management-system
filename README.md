@@ -1,13 +1,14 @@
 # CBAM ERP Carbon Management System
 
+CBAM 대응을 위한 ERP 기반 탄소관리 시스템 기획
 ERP-integrated carbon management solution designed to help SMEs comply with the upcoming CBAM (Carbon Border Adjustment Mechanism) regulation in 2026.
 
 ---
 
 ## Achievement
 
-- 🥇 2025 Spring Integrated Academic Conference  
-- University Mobile App / ERP Idea Contest – Grand Prize Winner
+- 2025 경영정보관련 학회 춘계통합학술대회 (한국경영정보학회, 한국인터넷전자상거래학회, 한국정보시스템학회, 한국지식경영학회 공동주)
+- 🥇 대학생 업무용 모바일 앱 / ERP 아이디어 공모전 – Grand Prize Winner
 
 ---
 
